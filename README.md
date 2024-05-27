@@ -3,6 +3,9 @@
 
 # Project Overview
 
+![image](https://github.com/Prathamesh1102/Tax-Calculator-Using-React/assets/72881228/43a40aaa-732d-4c6a-8481-1a49c31b5bac)
+
+
 I've have developed a tax calculator application using React that enables users to input various financial details and obtain projected financial results based on these inputs. The application is designed to be user-friendly, providing real-time updates and results.
 
 # Key Features
